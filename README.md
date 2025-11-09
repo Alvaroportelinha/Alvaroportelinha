@@ -3,13 +3,11 @@
 Bem-vindo ao meu perfil GitHub! Aqui compartilho projetos, estudos e experiências na área de desenvolvimento de software.
 
 ### Sobre mim
-💻 Desenvolvedor em constante aprendizado, focado em construir soluções eficientes e bem estruturadas. Tenho interesse em **desenvolvimento web** e **back-end**, sempre buscando aprimorar minhas habilidades e contribuir para projetos que impactam pessoas.
+💻 Desenvolvedor em constante aprendizado, focado em construir soluções eficientes e divertidas. Tenho interesse em **desenvolvimento web** Sempre buscando melhorar as minhas habilidades e contribuir para projetos que impactam pessoas.
 
 ### Tecnologias
 - HTML | CSS | JavaScript
-- Node.js | Express
-- MySQL | MongoDB
-- Git & GitHub
+- MySQL 
 
 ### Projetos em Destaque
 - [HBO MAX Clone](https://github.com/Alvaroportelinha/HBO-MAX) - Projeto inspirado na interface da HBO MAX, desenvolvido para fins de aprendizado. Inclui página de login, opções de assinatura e design responsivo.
